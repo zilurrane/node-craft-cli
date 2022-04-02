@@ -5,6 +5,11 @@
     "bin": {
         "node-craft": "bin/node-craft"
     },
+    "repository": "https://github.com/zilurrane/node-craft-cli",
+    "author": {
+        "name": "Zilu Rane",
+        "url": "https://zilu.dev"
+    },
     "scripts": {},
     "devDependencies": {},
     "dependencies": {
