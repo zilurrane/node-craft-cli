@@ -1,15 +1,15 @@
 {
-    "name": "node-craft",
+    "name": "node-craft-cli",
     "version": "0.0.1",
     "license": "MIT",
     "bin": {
         "node-craft": "bin/node-craft"
     },
     "description": "Node Project Automation using CLI",
-    "homepage": "https://github.com/zilurrane/node-craft#readme",
+    "homepage": "https://github.com/zilurrane/node-craft-cli#readme",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zilurrane/node-craft.git"
+        "url": "git+https://github.com/zilurrane/node-craft-cli.git"
     },
     "engines": {
         "node": ">=8"
