@@ -1,0 +1,15 @@
+{
+    "name": "node-craft-cli",
+    "version": "0.0.1",
+    "license": "MIT",
+    "bin": {
+        "node-craft": "bin/node-craft"
+    },
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {
+        "axios": "0.26.1",
+        "minimist": "1.2.6",
+        "ora": "5.4.1"
+    }
+}
