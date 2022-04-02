@@ -5,7 +5,16 @@
     "bin": {
         "node-craft": "bin/node-craft"
     },
-    "repository": "https://github.com/zilurrane/node-craft-cli",
+    "description": "Node Project Automation using CLI",
+    "homepage": "https://github.com/zilurrane/node-craft-cli#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zilurrane/node-craft-cli.git"
+    },
+    "engines": {
+        "node": ">=8"
+    },
+    "preferGlobal": true,
     "author": {
         "name": "Zilu Rane",
         "url": "https://zilu.dev"
